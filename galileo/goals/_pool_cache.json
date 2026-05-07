@@ -1,0 +1,1157 @@
+{
+  "s1_freefall": [
+    {
+      "view_id": "s1_freefall",
+      "slug": "freefall",
+      "name": "Drop Catcher",
+      "overlay_type": "position",
+      "target_y": 29.404237,
+      "tolerance": 1.470212,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Drop Catcher: drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s1_freefall",
+      "slug": "freefall",
+      "name": "Drop Catcher",
+      "overlay_type": "position",
+      "target_y": 4.187962,
+      "tolerance": 0.209398,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Drop Catcher: drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s1_freefall",
+      "slug": "freefall",
+      "name": "Drop Catcher",
+      "overlay_type": "position",
+      "target_y": 46.822843,
+      "tolerance": 2.341142,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Drop Catcher: drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s1_freefall",
+      "slug": "freefall",
+      "name": "Drop Catcher",
+      "overlay_type": "position",
+      "target_y": 2.629995,
+      "tolerance": 0.1315,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Drop Catcher: drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s1_freefall",
+      "slug": "freefall",
+      "name": "Drop Catcher",
+      "overlay_type": "position",
+      "target_y": 72.088483,
+      "tolerance": 3.604424,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "hard",
+      "units": "m",
+      "description": "Drop Catcher: drive Distance fallen (m) to the value rendered as the green target."
+    }
+  ],
+  "s2_mass": [
+    {
+      "view_id": "s2_mass",
+      "slug": "freefall",
+      "name": "Drop Catcher (m=3)",
+      "overlay_type": "position",
+      "target_y": 29.404237,
+      "tolerance": 1.470212,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Drop Catcher (m=3): drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s2_mass",
+      "slug": "freefall",
+      "name": "Drop Catcher (m=3)",
+      "overlay_type": "position",
+      "target_y": 4.187962,
+      "tolerance": 0.209398,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Drop Catcher (m=3): drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s2_mass",
+      "slug": "freefall",
+      "name": "Drop Catcher (m=3)",
+      "overlay_type": "position",
+      "target_y": 46.822843,
+      "tolerance": 2.341142,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Drop Catcher (m=3): drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s2_mass",
+      "slug": "freefall",
+      "name": "Drop Catcher (m=3)",
+      "overlay_type": "position",
+      "target_y": 2.629995,
+      "tolerance": 0.1315,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Drop Catcher (m=3): drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s2_mass",
+      "slug": "freefall",
+      "name": "Drop Catcher (m=3)",
+      "overlay_type": "position",
+      "target_y": 72.088483,
+      "tolerance": 3.604424,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "hard",
+      "units": "m",
+      "description": "Drop Catcher (m=3): drive Distance fallen (m) to the value rendered as the green target."
+    }
+  ],
+  "s3_pendulum": [
+    {
+      "view_id": "s3_pendulum",
+      "slug": "pendulum",
+      "name": "Bell Strike",
+      "overlay_type": "position",
+      "target_y": 4.939864,
+      "tolerance": 0.246993,
+      "control_range": [
+        0.125,
+        10.0
+      ],
+      "difficulty": "easy",
+      "units": "s",
+      "description": "Bell Strike: drive Period (s) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s3_pendulum",
+      "slug": "pendulum",
+      "name": "Bell Strike",
+      "overlay_type": "position",
+      "target_y": 2.024575,
+      "tolerance": 0.101229,
+      "control_range": [
+        0.125,
+        10.0
+      ],
+      "difficulty": "easy",
+      "units": "s",
+      "description": "Bell Strike: drive Period (s) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s3_pendulum",
+      "slug": "pendulum",
+      "name": "Bell Strike",
+      "overlay_type": "position",
+      "target_y": 5.421563,
+      "tolerance": 0.271078,
+      "control_range": [
+        0.125,
+        10.0
+      ],
+      "difficulty": "medium",
+      "units": "s",
+      "description": "Bell Strike: drive Period (s) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s3_pendulum",
+      "slug": "pendulum",
+      "name": "Bell Strike",
+      "overlay_type": "position",
+      "target_y": 1.844694,
+      "tolerance": 0.092235,
+      "control_range": [
+        0.125,
+        10.0
+      ],
+      "difficulty": "medium",
+      "units": "s",
+      "description": "Bell Strike: drive Period (s) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s3_pendulum",
+      "slug": "pendulum",
+      "name": "Bell Strike",
+      "overlay_type": "position",
+      "target_y": 5.910254,
+      "tolerance": 0.295513,
+      "control_range": [
+        0.125,
+        10.0
+      ],
+      "difficulty": "hard",
+      "units": "s",
+      "description": "Bell Strike: drive Period (s) to the value rendered as the green target."
+    }
+  ],
+  "s4_ramp": [
+    {
+      "view_id": "s4_ramp",
+      "slug": "freefall",
+      "name": "Ramp Catcher",
+      "overlay_type": "position",
+      "target_y": 29.404237,
+      "tolerance": 1.470212,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Ramp Catcher: drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s4_ramp",
+      "slug": "freefall",
+      "name": "Ramp Catcher",
+      "overlay_type": "position",
+      "target_y": 4.187962,
+      "tolerance": 0.209398,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Ramp Catcher: drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s4_ramp",
+      "slug": "freefall",
+      "name": "Ramp Catcher",
+      "overlay_type": "position",
+      "target_y": 46.822843,
+      "tolerance": 2.341142,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Ramp Catcher: drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s4_ramp",
+      "slug": "freefall",
+      "name": "Ramp Catcher",
+      "overlay_type": "position",
+      "target_y": 2.629995,
+      "tolerance": 0.1315,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Ramp Catcher: drive Distance fallen (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s4_ramp",
+      "slug": "freefall",
+      "name": "Ramp Catcher",
+      "overlay_type": "position",
+      "target_y": 72.088483,
+      "tolerance": 3.604424,
+      "control_range": [
+        0.5,
+        7.5
+      ],
+      "difficulty": "hard",
+      "units": "m",
+      "description": "Ramp Catcher: drive Distance fallen (m) to the value rendered as the green target."
+    }
+  ],
+  "s6_launch": [
+    {
+      "view_id": "s6_launch",
+      "slug": "projectile",
+      "name": "Hoop Shot",
+      "overlay_type": "position",
+      "target_y": 4.726714,
+      "tolerance": 0.236336,
+      "control_range": [
+        1.0,
+        25.0
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Hoop Shot: drive Horizontal range (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s6_launch",
+      "slug": "projectile",
+      "name": "Hoop Shot",
+      "overlay_type": "position",
+      "target_y": 0.261076,
+      "tolerance": 0.013054,
+      "control_range": [
+        1.0,
+        25.0
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Hoop Shot: drive Horizontal range (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s6_launch",
+      "slug": "projectile",
+      "name": "Hoop Shot",
+      "overlay_type": "position",
+      "target_y": 7.763848,
+      "tolerance": 0.388192,
+      "control_range": [
+        1.0,
+        25.0
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Hoop Shot: drive Horizontal range (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s6_launch",
+      "slug": "projectile",
+      "name": "Hoop Shot",
+      "overlay_type": "position",
+      "target_y": 0.158946,
+      "tolerance": 0.007947,
+      "control_range": [
+        1.0,
+        25.0
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Hoop Shot: drive Horizontal range (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s6_launch",
+      "slug": "projectile",
+      "name": "Hoop Shot",
+      "overlay_type": "position",
+      "target_y": 12.302092,
+      "tolerance": 0.615105,
+      "control_range": [
+        1.0,
+        25.0
+      ],
+      "difficulty": "hard",
+      "units": "m",
+      "description": "Hoop Shot: drive Horizontal range (m) to the value rendered as the green target."
+    }
+  ],
+  "s8_heat": [
+    {
+      "view_id": "s8_heat",
+      "slug": "heat",
+      "name": "Thermometer Match",
+      "overlay_type": "scalar",
+      "target_y": 2.728534,
+      "tolerance": 0.136427,
+      "control_range": [
+        0.25,
+        40.0
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Thermometer Match: drive Heat front position (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s8_heat",
+      "slug": "heat",
+      "name": "Thermometer Match",
+      "overlay_type": "scalar",
+      "target_y": 0.756179,
+      "tolerance": 0.037809,
+      "control_range": [
+        0.25,
+        40.0
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Thermometer Match: drive Heat front position (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s8_heat",
+      "slug": "heat",
+      "name": "Thermometer Match",
+      "overlay_type": "scalar",
+      "target_y": 3.041403,
+      "tolerance": 0.15207,
+      "control_range": [
+        0.25,
+        40.0
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Thermometer Match: drive Heat front position (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s8_heat",
+      "slug": "heat",
+      "name": "Thermometer Match",
+      "overlay_type": "scalar",
+      "target_y": 0.678391,
+      "tolerance": 0.03392,
+      "control_range": [
+        0.25,
+        40.0
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Thermometer Match: drive Heat front position (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s8_heat",
+      "slug": "heat",
+      "name": "Thermometer Match",
+      "overlay_type": "scalar",
+      "target_y": 3.363586,
+      "tolerance": 0.168179,
+      "control_range": [
+        0.25,
+        40.0
+      ],
+      "difficulty": "hard",
+      "units": "m",
+      "description": "Thermometer Match: drive Heat front position (m) to the value rendered as the green target."
+    }
+  ],
+  "s9_spring": [
+    {
+      "view_id": "s9_spring",
+      "slug": "spring",
+      "name": "Trigger Plate",
+      "overlay_type": "position",
+      "target_y": 1.054735,
+      "tolerance": 0.052737,
+      "control_range": [
+        0.05,
+        5.0
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Trigger Plate: drive Spring extension (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s9_spring",
+      "slug": "spring",
+      "name": "Trigger Plate",
+      "overlay_type": "position",
+      "target_y": 0.112569,
+      "tolerance": 0.005628,
+      "control_range": [
+        0.05,
+        5.0
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Trigger Plate: drive Spring extension (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s9_spring",
+      "slug": "spring",
+      "name": "Trigger Plate",
+      "overlay_type": "position",
+      "target_y": 1.310485,
+      "tolerance": 0.065524,
+      "control_range": [
+        0.05,
+        5.0
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Trigger Plate: drive Spring extension (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s9_spring",
+      "slug": "spring",
+      "name": "Trigger Plate",
+      "overlay_type": "position",
+      "target_y": 0.0906,
+      "tolerance": 0.00453,
+      "control_range": [
+        0.05,
+        5.0
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Trigger Plate: drive Spring extension (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s9_spring",
+      "slug": "spring",
+      "name": "Trigger Plate",
+      "overlay_type": "position",
+      "target_y": 1.602837,
+      "tolerance": 0.080142,
+      "control_range": [
+        0.05,
+        5.0
+      ],
+      "difficulty": "hard",
+      "units": "m",
+      "description": "Trigger Plate: drive Spring extension (m) to the value rendered as the green target."
+    }
+  ],
+  "s10_circular": [
+    {
+      "view_id": "s10_circular",
+      "slug": "orbital",
+      "name": "Rendezvous",
+      "overlay_type": "phase",
+      "target_y": 6.330904,
+      "tolerance": 0.316545,
+      "control_range": [
+        0.5,
+        10.0
+      ],
+      "difficulty": "easy",
+      "units": "yr",
+      "description": "Rendezvous: drive Orbital period (years) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s10_circular",
+      "slug": "orbital",
+      "name": "Rendezvous",
+      "overlay_type": "phase",
+      "target_y": 0.870869,
+      "tolerance": 0.043543,
+      "control_range": [
+        0.5,
+        10.0
+      ],
+      "difficulty": "easy",
+      "units": "yr",
+      "description": "Rendezvous: drive Orbital period (years) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s10_circular",
+      "slug": "orbital",
+      "name": "Rendezvous",
+      "overlay_type": "phase",
+      "target_y": 9.329083,
+      "tolerance": 0.466454,
+      "control_range": [
+        0.5,
+        10.0
+      ],
+      "difficulty": "medium",
+      "units": "yr",
+      "description": "Rendezvous: drive Orbital period (years) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s10_circular",
+      "slug": "orbital",
+      "name": "Rendezvous",
+      "overlay_type": "phase",
+      "target_y": 0.59099,
+      "tolerance": 0.029549,
+      "control_range": [
+        0.5,
+        10.0
+      ],
+      "difficulty": "medium",
+      "units": "yr",
+      "description": "Rendezvous: drive Orbital period (years) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s10_circular",
+      "slug": "orbital",
+      "name": "Rendezvous",
+      "overlay_type": "phase",
+      "target_y": 13.366335,
+      "tolerance": 0.668317,
+      "control_range": [
+        0.5,
+        10.0
+      ],
+      "difficulty": "hard",
+      "units": "yr",
+      "description": "Rendezvous: drive Orbital period (years) to the value rendered as the green target."
+    }
+  ],
+  "s16_decay": [
+    {
+      "view_id": "s16_decay",
+      "slug": "decay",
+      "name": "Half-Life Hit",
+      "overlay_type": "scalar",
+      "target_y": 0.459593,
+      "tolerance": 0.02298,
+      "control_range": [
+        0.25,
+        20.0
+      ],
+      "difficulty": "easy",
+      "units": "frac",
+      "description": "Half-Life Hit: drive Remaining brightness to the value rendered as the green target."
+    },
+    {
+      "view_id": "s16_decay",
+      "slug": "decay",
+      "name": "Half-Life Hit",
+      "overlay_type": "scalar",
+      "target_y": 8.542768,
+      "tolerance": 0.427138,
+      "control_range": [
+        0.25,
+        20.0
+      ],
+      "difficulty": "easy",
+      "units": "frac",
+      "description": "Half-Life Hit: drive Remaining brightness to the value rendered as the green target."
+    },
+    {
+      "view_id": "s16_decay",
+      "slug": "decay",
+      "name": "Half-Life Hit",
+      "overlay_type": "scalar",
+      "target_y": 0.149956,
+      "tolerance": 0.007498,
+      "control_range": [
+        0.25,
+        20.0
+      ],
+      "difficulty": "medium",
+      "units": "frac",
+      "description": "Half-Life Hit: drive Remaining brightness to the value rendered as the green target."
+    },
+    {
+      "view_id": "s16_decay",
+      "slug": "decay",
+      "name": "Half-Life Hit",
+      "overlay_type": "scalar",
+      "target_y": 8.909206,
+      "tolerance": 0.44546,
+      "control_range": [
+        0.25,
+        20.0
+      ],
+      "difficulty": "medium",
+      "units": "frac",
+      "description": "Half-Life Hit: drive Remaining brightness to the value rendered as the green target."
+    },
+    {
+      "view_id": "s16_decay",
+      "slug": "decay",
+      "name": "Half-Life Hit",
+      "overlay_type": "scalar",
+      "target_y": 0.036979,
+      "tolerance": 0.001849,
+      "control_range": [
+        0.25,
+        20.0
+      ],
+      "difficulty": "hard",
+      "units": "frac",
+      "description": "Half-Life Hit: drive Remaining brightness to the value rendered as the green target."
+    }
+  ],
+  "s17_refraction": [
+    {
+      "view_id": "s17_refraction",
+      "slug": "refraction",
+      "name": "Underwater Target",
+      "overlay_type": "position",
+      "target_y": 25.950051,
+      "tolerance": 1.297503,
+      "control_range": [
+        5.0,
+        150.0
+      ],
+      "difficulty": "easy",
+      "units": "deg",
+      "description": "Underwater Target: drive Angle of refraction (degrees) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s17_refraction",
+      "slug": "refraction",
+      "name": "Underwater Target",
+      "overlay_type": "position",
+      "target_y": 1.324026,
+      "tolerance": 0.066201,
+      "control_range": [
+        5.0,
+        150.0
+      ],
+      "difficulty": "easy",
+      "units": "deg",
+      "description": "Underwater Target: drive Angle of refraction (degrees) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s17_refraction",
+      "slug": "refraction",
+      "name": "Underwater Target",
+      "overlay_type": "position",
+      "target_y": 30.581395,
+      "tolerance": 1.52907,
+      "control_range": [
+        5.0,
+        150.0
+      ],
+      "difficulty": "medium",
+      "units": "deg",
+      "description": "Underwater Target: drive Angle of refraction (degrees) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s17_refraction",
+      "slug": "refraction",
+      "name": "Underwater Target",
+      "overlay_type": "position",
+      "target_y": 0.792048,
+      "tolerance": 0.039602,
+      "control_range": [
+        5.0,
+        150.0
+      ],
+      "difficulty": "medium",
+      "units": "deg",
+      "description": "Underwater Target: drive Angle of refraction (degrees) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s17_refraction",
+      "slug": "refraction",
+      "name": "Underwater Target",
+      "overlay_type": "position",
+      "target_y": 23.597704,
+      "tolerance": 1.179885,
+      "control_range": [
+        5.0,
+        150.0
+      ],
+      "difficulty": "hard",
+      "units": "deg",
+      "description": "Underwater Target: drive Angle of refraction (degrees) to the value rendered as the green target."
+    }
+  ],
+  "s18_boyle": [
+    {
+      "view_id": "s18_boyle",
+      "slug": "boyle",
+      "name": "Piston Mark",
+      "overlay_type": "position",
+      "target_y": 1.204431,
+      "tolerance": 0.060222,
+      "control_range": [
+        0.25,
+        10.0
+      ],
+      "difficulty": "easy",
+      "units": "cm",
+      "description": "Piston Mark: drive Gas column length (cm) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s18_boyle",
+      "slug": "boyle",
+      "name": "Piston Mark",
+      "overlay_type": "position",
+      "target_y": 31.29037,
+      "tolerance": 1.564518,
+      "control_range": [
+        0.25,
+        10.0
+      ],
+      "difficulty": "easy",
+      "units": "cm",
+      "description": "Piston Mark: drive Gas column length (cm) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s18_boyle",
+      "slug": "boyle",
+      "name": "Piston Mark",
+      "overlay_type": "position",
+      "target_y": 0.773313,
+      "tolerance": 0.038666,
+      "control_range": [
+        0.25,
+        10.0
+      ],
+      "difficulty": "medium",
+      "units": "cm",
+      "description": "Piston Mark: drive Gas column length (cm) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s18_boyle",
+      "slug": "boyle",
+      "name": "Piston Mark",
+      "overlay_type": "position",
+      "target_y": 48.73458,
+      "tolerance": 2.436729,
+      "control_range": [
+        0.25,
+        10.0
+      ],
+      "difficulty": "medium",
+      "units": "cm",
+      "description": "Piston Mark: drive Gas column length (cm) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s18_boyle",
+      "slug": "boyle",
+      "name": "Piston Mark",
+      "overlay_type": "position",
+      "target_y": 0.51271,
+      "tolerance": 0.025635,
+      "control_range": [
+        0.25,
+        10.0
+      ],
+      "difficulty": "hard",
+      "units": "cm",
+      "description": "Piston Mark: drive Gas column length (cm) to the value rendered as the green target."
+    }
+  ],
+  "s19_coulomb": [
+    {
+      "view_id": "s19_coulomb",
+      "slug": "coulomb",
+      "name": "Repulsion Distance",
+      "overlay_type": "position",
+      "target_y": 0.222411,
+      "tolerance": 0.011121,
+      "control_range": [
+        0.25,
+        20.0
+      ],
+      "difficulty": "easy",
+      "units": "N",
+      "description": "Repulsion Distance: drive Force magnitude (N) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s19_coulomb",
+      "slug": "coulomb",
+      "name": "Repulsion Distance",
+      "overlay_type": "position",
+      "target_y": 40.446235,
+      "tolerance": 2.022312,
+      "control_range": [
+        0.25,
+        20.0
+      ],
+      "difficulty": "easy",
+      "units": "N",
+      "description": "Repulsion Distance: drive Force magnitude (N) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s19_coulomb",
+      "slug": "coulomb",
+      "name": "Repulsion Distance",
+      "overlay_type": "position",
+      "target_y": 0.129251,
+      "tolerance": 0.006463,
+      "control_range": [
+        0.25,
+        20.0
+      ],
+      "difficulty": "medium",
+      "units": "N",
+      "description": "Repulsion Distance: drive Force magnitude (N) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s19_coulomb",
+      "slug": "coulomb",
+      "name": "Repulsion Distance",
+      "overlay_type": "position",
+      "target_y": 69.598616,
+      "tolerance": 3.479931,
+      "control_range": [
+        0.25,
+        20.0
+      ],
+      "difficulty": "medium",
+      "units": "N",
+      "description": "Repulsion Distance: drive Force magnitude (N) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s19_coulomb",
+      "slug": "coulomb",
+      "name": "Repulsion Distance",
+      "overlay_type": "position",
+      "target_y": 0.078125,
+      "tolerance": 0.003906,
+      "control_range": [
+        0.25,
+        20.0
+      ],
+      "difficulty": "hard",
+      "units": "N",
+      "description": "Repulsion Distance: drive Force magnitude (N) to the value rendered as the green target."
+    }
+  ],
+  "s20_hooke": [
+    {
+      "view_id": "s20_hooke",
+      "slug": "spring",
+      "name": "Stretch to Mark",
+      "overlay_type": "position",
+      "target_y": 1.054735,
+      "tolerance": 0.052737,
+      "control_range": [
+        0.05,
+        5.0
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Stretch to Mark: drive Spring extension (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s20_hooke",
+      "slug": "spring",
+      "name": "Stretch to Mark",
+      "overlay_type": "position",
+      "target_y": 0.112569,
+      "tolerance": 0.005628,
+      "control_range": [
+        0.05,
+        5.0
+      ],
+      "difficulty": "easy",
+      "units": "m",
+      "description": "Stretch to Mark: drive Spring extension (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s20_hooke",
+      "slug": "spring",
+      "name": "Stretch to Mark",
+      "overlay_type": "position",
+      "target_y": 1.310485,
+      "tolerance": 0.065524,
+      "control_range": [
+        0.05,
+        5.0
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Stretch to Mark: drive Spring extension (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s20_hooke",
+      "slug": "spring",
+      "name": "Stretch to Mark",
+      "overlay_type": "position",
+      "target_y": 0.0906,
+      "tolerance": 0.00453,
+      "control_range": [
+        0.05,
+        5.0
+      ],
+      "difficulty": "medium",
+      "units": "m",
+      "description": "Stretch to Mark: drive Spring extension (m) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s20_hooke",
+      "slug": "spring",
+      "name": "Stretch to Mark",
+      "overlay_type": "position",
+      "target_y": 1.602837,
+      "tolerance": 0.080142,
+      "control_range": [
+        0.05,
+        5.0
+      ],
+      "difficulty": "hard",
+      "units": "m",
+      "description": "Stretch to Mark: drive Spring extension (m) to the value rendered as the green target."
+    }
+  ],
+  "s21_weber": [
+    {
+      "view_id": "s21_weber",
+      "slug": "blackbody",
+      "name": "Glow Match",
+      "overlay_type": "scalar",
+      "target_y": 2.793037,
+      "tolerance": 0.139652,
+      "control_range": [
+        500.0,
+        25000.0
+      ],
+      "difficulty": "easy",
+      "units": "nm",
+      "description": "Glow Match: drive Peak wavelength (nm) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s21_weber",
+      "slug": "blackbody",
+      "name": "Glow Match",
+      "overlay_type": "scalar",
+      "target_y": 18.257419,
+      "tolerance": 0.912871,
+      "control_range": [
+        500.0,
+        25000.0
+      ],
+      "difficulty": "easy",
+      "units": "nm",
+      "description": "Glow Match: drive Peak wavelength (nm) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s21_weber",
+      "slug": "blackbody",
+      "name": "Glow Match",
+      "overlay_type": "scalar",
+      "target_y": 2.213364,
+      "tolerance": 0.110668,
+      "control_range": [
+        500.0,
+        25000.0
+      ],
+      "difficulty": "medium",
+      "units": "nm",
+      "description": "Glow Match: drive Peak wavelength (nm) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s21_weber",
+      "slug": "blackbody",
+      "name": "Glow Match",
+      "overlay_type": "scalar",
+      "target_y": 23.038983,
+      "tolerance": 1.151949,
+      "control_range": [
+        500.0,
+        25000.0
+      ],
+      "difficulty": "medium",
+      "units": "nm",
+      "description": "Glow Match: drive Peak wavelength (nm) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s21_weber",
+      "slug": "blackbody",
+      "name": "Glow Match",
+      "overlay_type": "scalar",
+      "target_y": 1.783811,
+      "tolerance": 0.089191,
+      "control_range": [
+        500.0,
+        25000.0
+      ],
+      "difficulty": "hard",
+      "units": "nm",
+      "description": "Glow Match: drive Peak wavelength (nm) to the value rendered as the green target."
+    }
+  ],
+  "s22_cooling": [
+    {
+      "view_id": "s22_cooling",
+      "slug": "cooling",
+      "name": "Cool-Down Timing",
+      "overlay_type": "scalar",
+      "target_y": 6.504506,
+      "tolerance": 0.325225,
+      "control_range": [
+        0.25,
+        30.0
+      ],
+      "difficulty": "easy",
+      "units": "C",
+      "description": "Cool-Down Timing: drive Temperature above ambient (\u00b0C) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s22_cooling",
+      "slug": "cooling",
+      "name": "Cool-Down Timing",
+      "overlay_type": "scalar",
+      "target_y": 64.553558,
+      "tolerance": 3.227678,
+      "control_range": [
+        0.25,
+        30.0
+      ],
+      "difficulty": "easy",
+      "units": "C",
+      "description": "Cool-Down Timing: drive Temperature above ambient (\u00b0C) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s22_cooling",
+      "slug": "cooling",
+      "name": "Cool-Down Timing",
+      "overlay_type": "scalar",
+      "target_y": 2.741473,
+      "tolerance": 0.137074,
+      "control_range": [
+        0.25,
+        30.0
+      ],
+      "difficulty": "medium",
+      "units": "C",
+      "description": "Cool-Down Timing: drive Temperature above ambient (\u00b0C) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s22_cooling",
+      "slug": "cooling",
+      "name": "Cool-Down Timing",
+      "overlay_type": "scalar",
+      "target_y": 65.963083,
+      "tolerance": 3.298154,
+      "control_range": [
+        0.25,
+        30.0
+      ],
+      "difficulty": "medium",
+      "units": "C",
+      "description": "Cool-Down Timing: drive Temperature above ambient (\u00b0C) to the value rendered as the green target."
+    },
+    {
+      "view_id": "s22_cooling",
+      "slug": "cooling",
+      "name": "Cool-Down Timing",
+      "overlay_type": "scalar",
+      "target_y": 0.930992,
+      "tolerance": 0.04655,
+      "control_range": [
+        0.25,
+        30.0
+      ],
+      "difficulty": "hard",
+      "units": "C",
+      "description": "Cool-Down Timing: drive Temperature above ambient (\u00b0C) to the value rendered as the green target."
+    }
+  ]
+}
